@@ -42,8 +42,8 @@
 
   <h2>Equipe de Desenvolvimento</h2>
   <ul>
-    <li><a href="link_para_perfil_github">Luis Freire</a>: Desenvolvedor backend responsável pelo desenvolvimento e manutenção do sistema.</li>
-    <li><a href="link_para_perfil_github">Ricardo Jacques</a>: Desenvolvedor frontend responsável pela criação da interface do usuário e experiência do usuário.</li>
+    <li><a href="https://github.com/luisgustavo2022">Luis Freire</a>: Desenvolvedor backend responsável pelo desenvolvimento e manutenção do sistema.</li>
+    <li><a href="https://github.com/Ricardo-Jacques">Ricardo Jacques</a>: Desenvolvedor frontend responsável pela criação da interface do usuário e experiência do usuário.</li>
   </ul>
 
   <h2>Agradecimentos</h2>
