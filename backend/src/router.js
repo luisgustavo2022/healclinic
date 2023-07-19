@@ -6,6 +6,6 @@ const { response } = require("./app");
 
 const pacientscontrollers = require("./controllers/pacientscontrollers");
 
-router.get("/pacients",  pacientscontrollers.getAll );
+router.get("/pacients",  pacientscontrollers.getPacient );
 
 module.exports = router;
