@@ -4,8 +4,9 @@ const router = express.Router();
 
 const { response } = require("./app");
 
-const pacientscontrollers = require("./controllers/pacientscontrollers");
+const patientscontrollers = require("./controllers/patientscontrollers");
 
-router.get("/pacients",  pacientscontrollers.getPacient );
+router.get("/patients",  patientscontrollers.getPatient );
+router.post("/patients",  patientscontrollers.newPatient );
 
 module.exports = router;
